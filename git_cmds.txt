@@ -1,0 +1,11 @@
+
+git init: it used to create an repository, it 
+git status
+git add
+git commit
+git log
+git checkout
+git diff
+git clone
+
+
